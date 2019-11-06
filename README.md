@@ -1,6 +1,6 @@
 # Employee Management System - PHP CRUD
 
-Instruction for running the project:
+Instructions for running the project:
 
 1. Download the .zip file
 2. Extract the file and paste it inside the root directory [eg: C:\xampp\htdocs]
