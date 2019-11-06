@@ -1,4 +1,4 @@
-# PHP-Login-Form
+# Employee Management System - PHP CRUD
 
 Instruction for running the project:
 
